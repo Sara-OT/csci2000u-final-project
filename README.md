@@ -4,7 +4,9 @@ Blog Post
 
 Title# The Correlation of student environmental factors to the amont of alcohol consumed
 
-About us Sara Bhatti David Dickson
+About us 
+Sara Bhatti - Sara-OT
+David Dickson - David-A-DavidD
 
 Introduction
 
